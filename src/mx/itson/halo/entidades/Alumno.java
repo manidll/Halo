@@ -8,7 +8,7 @@ package mx.itson.halo.entidades;
 import mx.itson.halo.enumeradores.Resultado;
 
 /**
- *  Esta clase define las propiedades de alumno.
+ *  Define propiedades de alumno.
  * @author Emmanuel Rivas Q.
  */
 public class Alumno {
